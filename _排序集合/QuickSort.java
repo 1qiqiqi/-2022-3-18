@@ -5,7 +5,7 @@ public class QuickSort {
         int [] nums = new int[]{1,2,7,6,6,9,11,22,33,55,66,77};
         quick_sort(nums,0,nums.length-1);
         for(int i:nums){
-            System.out.println(i);
+            System.out.print(i+" ");
         }
     }
     public static void quick_sort(int [] nums,int l,int r){

@@ -6,6 +6,8 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/_排序集合" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/year_13" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/year_21" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/算法模板" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
