@@ -1,3 +1,5 @@
+package _快排;
+
 public class _快速排序模板 {
     public static void main(String[] args) {
         int[] nums = new int[]{1,2,7,6,6,9,11,22,33,55,66,77};
