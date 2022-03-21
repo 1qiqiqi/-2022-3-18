@@ -1,5 +1,8 @@
 package _高精度;
 
+import java.lang.reflect.Array;
+import java.util.Arrays;
+
 public class _加法 {
     public static void main(String[] args) {
         //取数
@@ -7,15 +10,16 @@ public class _加法 {
         int[] a_num = new int[a.length()];
         int[] b_num = new int[b.length()];
         for (int i=0;i<a_num.length;i++){
-            a_num[i] = a.charAt(a_num.length-i-1);
+            a_num[i] = a.charAt(a_num.length-i-1)-48;//很奇怪不知道为什么要减48
         }
+        System.out.println(Arrays.toString(a_num));
         for (int i=0;i<b_num.length;i++){
-            b_num[i] = b.charAt(b_num.length-i-1);
+            b_num[i] = b.charAt(b_num.length-i-1)-48;
         }
         int[] C = add(a_num, b_num);
         for (int i=C.length-1;i>=0;i--){
             System.out.print(C[i]+"");
-        }
+    }
 
     }
     public static int [] add(int[] a,int [] b){
@@ -27,6 +31,7 @@ public class _加法 {
             C[i] = t%10;
             t /= 10;
         }
+        if (t>0)C[3] = t;
         return C;
     }
 }
