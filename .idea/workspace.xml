@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09fb2d6f-4edd-4664-998a-f4cf6568af67" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_算法模板/_高精度/_乘法.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_算法模板/_高精度/_减法.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_算法模板/_位运算左右移动/_移动计数技巧.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_算法模板/_前缀和/_一维前缀和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_算法模板/_双指针/_一个数组中连续的不同子数组最长.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_算法模板/_高精度/_除法.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_算法模板/_高精度/_加法.java" beforeDir="false" afterPath="$PROJECT_DIR$/_算法模板/_高精度/_加法.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/_高精度/_加法.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/_高精度/_加法.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_算法模板/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/_算法模板/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/_高精度/_乘法.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/_高精度/_乘法.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/test.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,55 +22,46 @@
     <session id="1855738861">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.7" value="4" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="37" />
+          <entry key="java" value="45" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="37" />
+          <entry key="JAVA" value="45" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="4" />
-          <entry key="java" value="10531" />
+          <entry key="java" value="12276" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="10531" />
+          <entry key="JAVA" value="12276" />
           <entry key="PLAIN_TEXT" value="4" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_算法模板/_高精度/_乘法.java">
+        <entry file="file://$PROJECT_DIR$/_算法模板/_位运算左右移动/_移动计数技巧.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_算法模板/_高精度/_减法.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="689">
-              <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+            <state relative-caret-position="270">
+              <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -93,6 +87,7 @@
     </replaceStrings>
     <dirStrings>
       <dir>F:\serverEnviroment\projects\lanqiao\_排序集合</dir>
+      <dir>F:\serverEnviroment\projects\lanqiao\_算法模板\_高精度</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -122,6 +117,12 @@
         <option value="$PROJECT_DIR$/_算法模板/_高精度/_加法.java" />
         <option value="$PROJECT_DIR$/_算法模板/_高精度/_减法.java" />
         <option value="$PROJECT_DIR$/_算法模板/_高精度/_乘法.java" />
+        <option value="$PROJECT_DIR$/_算法模板/_高精度/_除法.java" />
+        <option value="$PROJECT_DIR$/_算法模板/_前缀和/_一维前缀和.java" />
+        <option value="$PROJECT_DIR$/_算法模板/_二分/_二分模板.java" />
+        <option value="$PROJECT_DIR$/_算法模板/test.java" />
+        <option value="$PROJECT_DIR$/_算法模板/_双指针/_一个数组中连续的不同子数组最长.java" />
+        <option value="$PROJECT_DIR$/_算法模板/_位运算左右移动/_移动计数技巧.java" />
       </list>
     </option>
   </component>
@@ -131,7 +132,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="435" />
     <option name="y" value="96" />
     <option name="width" value="879" />
@@ -143,9 +144,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -158,23 +156,20 @@
               <item name="lanqiao" type="462c0819:PsiDirectoryNode" />
               <item name="_算法模板" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="lanqiao" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lanqiao" type="462c0819:PsiDirectoryNode" />
-              <item name="_算法模板" type="462c0819:PsiDirectoryNode" />
-              <item name="_高精度" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://F:/serverEnviroment/projects/lanqiao/_算法模板/_高精度/_加法.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1647874420456" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1648031974830" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavawebT" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -195,10 +190,75 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._乘法">
+  <component name="RunManager" selected="Application._移动计数技巧">
     <configuration name="_快速排序模板" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_快排._快速排序模板" />
       <module name="lanqiao" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_一个数组中连续的不同子数组最长" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_双指针._一个数组中连续的不同子数组最长" />
+      <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_双指针.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_二分模板" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_二分._二分模板" />
+      <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_二分.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_移动计数技巧" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_位运算左右移动._移动计数技巧" />
+      <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_位运算左右移动.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_除法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_高精度._除法" />
+      <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_高精度.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_一维前缀和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_前缀和._一维前缀和" />
+      <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_前缀和.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -272,16 +332,16 @@
     <list>
       <item itemvalue="Application._快速排序模板" />
       <item itemvalue="Application.test" />
-      <item itemvalue="Application._加法" />
-      <item itemvalue="Application._减法" />
-      <item itemvalue="Application._乘法" />
+      <item itemvalue="Application._一个数组中连续的不同子数组最长" />
+      <item itemvalue="Application._二分模板" />
+      <item itemvalue="Application._移动计数技巧" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._乘法" />
-        <item itemvalue="Application._减法" />
-        <item itemvalue="Application._加法" />
+        <item itemvalue="Application._移动计数技巧" />
+        <item itemvalue="Application._一个数组中连续的不同子数组最长" />
         <item itemvalue="Application.test" />
+        <item itemvalue="Application._二分模板" />
         <item itemvalue="Application._快速排序模板" />
       </list>
     </recent_temporary>
@@ -302,17 +362,18 @@
       <workItem from="1647744569013" duration="8448000" />
       <workItem from="1647840893355" duration="878000" />
       <workItem from="1647853030525" duration="5927000" />
+      <workItem from="1647957055500" duration="4643000" />
+      <workItem from="1648003992368" duration="6559000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54218000" />
+    <option name="totallyTimeSpent" value="65420000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26596606" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27405012" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -321,7 +382,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30427048" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30782917" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -435,13 +496,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_算法模板/_二分/_二分模板.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_算法模板/_快排/_快速排序模板.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -473,24 +527,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_算法模板/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_算法模板/_高精度/_减法.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="689">
-          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+        <state relative-caret-position="458">
+          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_算法模板/_高精度/_乘法.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        <state relative-caret-position="270">
+          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_算法模板/_高精度/_除法.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_算法模板/_前缀和/_一维前缀和.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_算法模板/_二分/_二分模板.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-81">
+          <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_算法模板/_双指针/_一个数组中连续的不同子数组最长.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_算法模板/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_算法模板/_位运算左右移动/_移动计数技巧.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
         </state>
       </provider>
     </entry>
