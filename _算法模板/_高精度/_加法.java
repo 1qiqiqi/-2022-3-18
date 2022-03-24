@@ -25,13 +25,13 @@ public class _加法 {
     public static int [] add(int[] a,int [] b){
         int t = 0;//进位
         int [] C = new int[4];
-        for (int i=0;i<a.length||i<b.length;i++){
+        for (int i=0;i<a.length||i<b.length||t>0;i++){
             if (i<a.length)t += a[i];
             if (i<b.length)t += b[i];
             C[i] = t%10;
             t /= 10;
         }
-        if (t>0)C[3] = t;
+//        if (t>0)C[3] = t;
         return C;
     }
 }

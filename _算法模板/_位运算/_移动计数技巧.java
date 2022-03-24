@@ -1,4 +1,4 @@
-package _位运算左右移动;
+package _位运算;
 
 public class _移动计数技巧 {
     public static void main(String[] args) {

@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09fb2d6f-4edd-4664-998a-f4cf6568af67" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_算法模板/_位运算左右移动/_移动计数技巧.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_算法模板/_前缀和/_一维前缀和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_算法模板/_双指针/_一个数组中连续的不同子数组最长.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_算法模板/_高精度/_除法.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_算法模板/_位运算/_位运算交换位置省空间.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_算法模板/_位运算/_位运算求整数中1的个数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_算法模板/_区间合并/_合并区间.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_算法模板/_离散化/_求l到r区间的值.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_算法模板/_位运算左右移动/_移动计数技巧.java" beforeDir="false" afterPath="$PROJECT_DIR$/_算法模板/_位运算/_移动计数技巧.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_算法模板/_高精度/_加法.java" beforeDir="false" afterPath="$PROJECT_DIR$/_算法模板/_高精度/_加法.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_算法模板/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/_算法模板/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/_高精度/_乘法.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/_高精度/_乘法.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/_位运算左右移动/_移动计数技巧.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/_高精度/_加法.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/_高精度/_加法.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/lanqiao/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/test.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,34 +25,35 @@
     <session id="1855738861">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="4" />
+          <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="45" />
+          <entry key="java" value="62" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="45" />
+          <entry key="JAVA" value="62" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="4" />
-          <entry key="java" value="12276" />
+          <entry key="java" value="13140" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="12276" />
+          <entry key="JAVA" value="13140" />
           <entry key="PLAIN_TEXT" value="4" />
         </counts>
       </usages-collector>
@@ -58,10 +62,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_算法模板/_位运算左右移动/_移动计数技巧.java">
+        <entry file="file://$PROJECT_DIR$/_算法模板/_离散化/_求l到r区间的值.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+            <state relative-caret-position="188">
+              <caret line="79" column="35" lean-forward="true" selection-start-line="79" selection-start-column="35" selection-end-line="79" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -114,15 +121,21 @@
         <option value="$PROJECT_DIR$/_排序集合/MergeSort.java" />
         <option value="$PROJECT_DIR$/算法模板/_二分模板.java" />
         <option value="$PROJECT_DIR$/算法模板/test.java" />
-        <option value="$PROJECT_DIR$/_算法模板/_高精度/_加法.java" />
         <option value="$PROJECT_DIR$/_算法模板/_高精度/_减法.java" />
         <option value="$PROJECT_DIR$/_算法模板/_高精度/_乘法.java" />
         <option value="$PROJECT_DIR$/_算法模板/_高精度/_除法.java" />
         <option value="$PROJECT_DIR$/_算法模板/_前缀和/_一维前缀和.java" />
         <option value="$PROJECT_DIR$/_算法模板/_二分/_二分模板.java" />
-        <option value="$PROJECT_DIR$/_算法模板/test.java" />
         <option value="$PROJECT_DIR$/_算法模板/_双指针/_一个数组中连续的不同子数组最长.java" />
         <option value="$PROJECT_DIR$/_算法模板/_位运算左右移动/_移动计数技巧.java" />
+        <option value="$PROJECT_DIR$/_算法模板/_位运算左右移动/_位运算求整数中1的个数.java" />
+        <option value="$PROJECT_DIR$/_算法模板/_位运算左右移动/_位运算交换位置省空间.java" />
+        <option value="$PROJECT_DIR$/_算法模板/_位运算/_位运算求整数中1的个数.java" />
+        <option value="$PROJECT_DIR$/_算法模板/_位运算/_位运算交换位置省空间.java" />
+        <option value="$PROJECT_DIR$/_算法模板/_高精度/_加法.java" />
+        <option value="$PROJECT_DIR$/_算法模板/test.java" />
+        <option value="$PROJECT_DIR$/_算法模板/_区间合并/_合并区间.java" />
+        <option value="$PROJECT_DIR$/_算法模板/_离散化/_求l到r区间的值.java" />
       </list>
     </option>
   </component>
@@ -144,6 +157,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -161,7 +175,6 @@
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -169,7 +182,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://F:/serverEnviroment/projects/lanqiao/_算法模板/_高精度/_加法.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1648031974830" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1648131365352" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavawebT" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -190,10 +203,75 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._移动计数技巧">
-    <configuration name="_快速排序模板" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_快排._快速排序模板" />
+  <component name="RunManager" selected="Application.test">
+    <configuration name="_加法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_高精度._加法" />
       <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_高精度.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_位运算交换位置省空间" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_位运算._位运算交换位置省空间" />
+      <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_位运算.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_二分模板" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_二分._二分模板" />
+      <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_二分.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_除法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_高精度._除法" />
+      <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_高精度.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_二分模板" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_二分._二分模板" />
+      <module name="lanqiao" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_加法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_高精度._加法" />
+      <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_高精度.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -302,26 +380,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_二分模板" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_二分._二分模板" />
-      <module name="lanqiao" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_加法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_高精度._加法" />
-      <module name="lanqiao" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_高精度.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test" />
       <module name="lanqiao" />
@@ -330,19 +388,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application._快速排序模板" />
-      <item itemvalue="Application.test" />
-      <item itemvalue="Application._一个数组中连续的不同子数组最长" />
+      <item itemvalue="Application._位运算交换位置省空间" />
       <item itemvalue="Application._二分模板" />
-      <item itemvalue="Application._移动计数技巧" />
+      <item itemvalue="Application._加法" />
+      <item itemvalue="Application._除法" />
+      <item itemvalue="Application.test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._移动计数技巧" />
-        <item itemvalue="Application._一个数组中连续的不同子数组最长" />
         <item itemvalue="Application.test" />
+        <item itemvalue="Application._除法" />
+        <item itemvalue="Application._加法" />
         <item itemvalue="Application._二分模板" />
-        <item itemvalue="Application._快速排序模板" />
+        <item itemvalue="Application._位运算交换位置省空间" />
       </list>
     </recent_temporary>
   </component>
@@ -364,16 +422,17 @@
       <workItem from="1647853030525" duration="5927000" />
       <workItem from="1647957055500" duration="4643000" />
       <workItem from="1648003992368" duration="6559000" />
+      <workItem from="1648111722996" duration="7110000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65420000" />
+    <option name="totallyTimeSpent" value="72530000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27405012" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27890056" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -496,13 +555,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_算法模板/_快排/_快速排序模板.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/Java/lib/src.zip!/java.base/java/lang/Integer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-7844">
@@ -517,69 +569,110 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_算法模板/_高精度/_加法.java">
+    <entry file="file://$PROJECT_DIR$/_算法模板/_位运算/_移动计数技巧.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="12" column="68" selection-start-line="12" selection-start-column="68" selection-end-line="12" selection-end-column="68" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="189">
+          <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_算法模板/_高精度/_减法.java">
+    <entry file="file://$PROJECT_DIR$/_算法模板/_位运算/_位运算求整数中1的个数.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+        <state>
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_算法模板/_前缀和/_一维前缀和.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-108">
+          <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_算法模板/_二分/_二分模板.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="27" column="29" lean-forward="true" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_算法模板/_位运算/_位运算交换位置省空间.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_算法模板/_双指针/_一个数组中连续的不同子数组最长.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_算法模板/_快排/_快速排序模板.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_算法模板/_高精度/_乘法.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_算法模板/_高精度/_减法.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-27">
+          <caret line="38" column="17" lean-forward="true" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_算法模板/_高精度/_加法.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_算法模板/_高精度/_除法.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_算法模板/_前缀和/_一维前缀和.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_算法模板/_二分/_二分模板.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-81">
-          <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_算法模板/_双指针/_一个数组中连续的不同子数组最长.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+        <state relative-caret-position="567">
+          <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_算法模板/test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+        <state relative-caret-position="216">
+          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_算法模板/_位运算左右移动/_移动计数技巧.java">
+    <entry file="file://$PROJECT_DIR$/_算法模板/_区间合并/_合并区间.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        <state relative-caret-position="108">
+          <caret line="4" column="22" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_算法模板/_离散化/_求l到r区间的值.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="79" column="35" lean-forward="true" selection-start-line="79" selection-start-column="35" selection-end-line="79" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
