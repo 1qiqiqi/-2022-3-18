@@ -2,20 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09fb2d6f-4edd-4664-998a-f4cf6568af67" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_数据结构/_KMP/_字符串匹配.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_数据结构/_队列/_滑动窗口.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/MergeSortTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/_快排/_快速排序模板Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year_19_province/_第三题枚举数列求值.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year_19_province/_第二题不同子字符串.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/year_19_province/_第四题2019的不同正整数的和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_蓝桥必备api/_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_蓝桥必备api/_Calender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_蓝桥必备api/_Matcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_蓝桥必备api/_Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_蓝桥必备api/_SimpleDateFormat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_算法模板/_位运算/_位运算求整数中1的个数.java" beforeDir="false" afterPath="$PROJECT_DIR$/_算法模板/_位运算/_位运算求整数中1的个数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_算法模板/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/_算法模板/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lanqiao.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lanqiao.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/_位运算/_位运算求整数中1的个数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/_位运算/_位运算求整数中1的个数.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/test$Mypair.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lanqiao/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiao/test.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,7 +21,7 @@
     <session id="1855738861">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="17" />
+          <entry key="project.closed" value="18" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.11" value="2" />
@@ -38,32 +31,32 @@
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="4" />
-          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.8" value="3" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="17" />
+          <entry key="project.opened" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="1" />
-          <entry key="java" value="142" />
+          <entry key="java" value="157" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="142" />
+          <entry key="JAVA" value="157" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="9" />
-          <entry key="java" value="25946" />
+          <entry key="java" value="27419" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="25946" />
+          <entry key="JAVA" value="27419" />
           <entry key="PLAIN_TEXT" value="9" />
         </counts>
       </usages-collector>
@@ -72,19 +65,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/year_19_province/_第四题2019的不同正整数的和.java">
+        <entry file="file://$PROJECT_DIR$/_蓝桥必备api/_Matcher.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="1" column="44" lean-forward="true" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_数据结构/_KMP/_字符串匹配.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+            <state relative-caret-position="297">
+              <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -122,9 +109,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Sort/QuickSort.java" />
-        <option value="$PROJECT_DIR$/Sort/MergeSort.java" />
-        <option value="$PROJECT_DIR$/Sort/QuickSort1.java" />
         <option value="$PROJECT_DIR$/Sort/InsertionSort1.java" />
         <option value="$PROJECT_DIR$/Sort/InsertionSort.java" />
         <option value="$PROJECT_DIR$/Sort/BubbleSort.java" />
@@ -171,6 +155,11 @@
         <option value="$PROJECT_DIR$/year_19_province/_第四题2019的不同正整数的和.java" />
         <option value="$PROJECT_DIR$/_数据结构/_KMP/_字符串匹配.java" />
         <option value="$PROJECT_DIR$/_算法模板/test.java" />
+        <option value="$PROJECT_DIR$/_蓝桥必备api/_Arrays.java" />
+        <option value="$PROJECT_DIR$/_蓝桥必备api/_SimpleDateFormat.java" />
+        <option value="$PROJECT_DIR$/_蓝桥必备api/_Calender.java" />
+        <option value="$PROJECT_DIR$/_蓝桥必备api/_Pattern.java" />
+        <option value="$PROJECT_DIR$/_蓝桥必备api/_Matcher.java" />
       </list>
     </option>
   </component>
@@ -181,7 +170,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="598" />
+    <option name="x" value="597" />
     <option name="y" value="72" />
     <option name="width" value="879" />
     <option name="height" value="840" />
@@ -195,6 +184,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -206,18 +196,17 @@
             <path>
               <item name="lanqiao" type="b2602c69:ProjectViewProjectNode" />
               <item name="lanqiao" type="462c0819:PsiDirectoryNode" />
-              <item name="_数据结构" type="462c0819:PsiDirectoryNode" />
+              <item name="_蓝桥必备api" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lanqiao" type="b2602c69:ProjectViewProjectNode" />
               <item name="lanqiao" type="462c0819:PsiDirectoryNode" />
-              <item name="year_19_province" type="462c0819:PsiDirectoryNode" />
+              <item name="year_13" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -227,7 +216,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://F:/serverEnviroment/projects/lanqiao/_算法模板/_高精度/_加法.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1648733964067" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1648807252997" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -262,115 +251,38 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._第四题2019的不同正整数的和">
-    <configuration name="_第二题不同子字符串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_第二题不同子字符串" />
+  <component name="RunManager" selected="Application._Matcher">
+    <configuration name="_01世纪末日的星期日" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_01世纪末日的星期日" />
       <module name="lanqiao" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_第三题枚举数列求值" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_第三题枚举数列求值" />
+    <configuration name="_Calender" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_Calender" />
       <module name="lanqiao" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_第四题2019的不同正整数的和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_第四题2019的不同正整数的和" />
+    <configuration name="_Matcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_Matcher" />
       <module name="lanqiao" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_字符串匹配" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_KMP._字符串匹配" />
+    <configuration name="_Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_Pattern" />
       <module name="lanqiao" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_KMP.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_位运算交换位置省空间" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_位运算._位运算交换位置省空间" />
+    <configuration name="_SimpleDateFormat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_SimpleDateFormat" />
       <module name="lanqiao" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_位运算.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_二分模板" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_二分._二分模板" />
-      <module name="lanqiao" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_二分.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_除法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_高精度._除法" />
-      <module name="lanqiao" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_高精度.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_字符串匹配" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_KMP._字符串匹配" />
-      <module name="lanqiao" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_KMP.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_链表插入" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_链表._链表插入" />
-      <module name="lanqiao" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_链表.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_单调栈" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_栈._单调栈" />
-      <module name="lanqiao" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_栈.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -499,6 +411,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_第三题枚举数列求值" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_第三题枚举数列求值" />
+      <module name="lanqiao" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="_减法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_高精度._减法" />
       <module name="lanqiao" />
@@ -525,27 +444,111 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
+    <configuration name="_字符串匹配" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_KMP._字符串匹配" />
       <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_KMP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_位运算交换位置省空间" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_位运算._位运算交换位置省空间" />
+      <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_位运算.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_二分模板" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_二分._二分模板" />
+      <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_二分.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_除法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_高精度._除法" />
+      <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_高精度.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_字符串匹配" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_KMP._字符串匹配" />
+      <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_KMP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_链表插入" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_链表._链表插入" />
+      <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_链表.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_单调栈" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_栈._单调栈" />
+      <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_栈.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.test" />
-      <item itemvalue="Application._第三题枚举数列求值" />
-      <item itemvalue="Application._第二题不同子字符串" />
-      <item itemvalue="Application._第四题2019的不同正整数的和" />
-      <item itemvalue="Application._字符串匹配" />
+      <item itemvalue="Application._SimpleDateFormat" />
+      <item itemvalue="Application._Calender" />
+      <item itemvalue="Application._01世纪末日的星期日" />
+      <item itemvalue="Application._Pattern" />
+      <item itemvalue="Application._Matcher" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._第四题2019的不同正整数的和" />
-        <item itemvalue="Application._字符串匹配" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application._第二题不同子字符串" />
-        <item itemvalue="Application._第三题枚举数列求值" />
+        <item itemvalue="Application._Matcher" />
+        <item itemvalue="Application._Pattern" />
+        <item itemvalue="Application._Calender" />
+        <item itemvalue="Application._01世纪末日的星期日" />
+        <item itemvalue="Application._SimpleDateFormat" />
       </list>
     </recent_temporary>
   </component>
@@ -576,6 +579,7 @@
       <workItem from="1648623860387" duration="4184000" />
       <workItem from="1648643244977" duration="7128000" />
       <workItem from="1648698624167" duration="15579000" />
+      <workItem from="1648798734191" duration="6707000" />
     </task>
     <servers />
   </component>
@@ -612,12 +616,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="135827000" />
+    <option name="totallyTimeSpent" value="142534000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16491511" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16734034" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -654,14 +658,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Sort/QuickSort1.java" />
-    <entry file="jar://D:/Java/lib/src.zip!/java.base/java/util/Calendar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="391" column="27" lean-forward="true" selection-start-line="391" selection-start-column="27" selection-end-line="391" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/year_13/test.java" />
     <entry file="file://$PROJECT_DIR$/year_21/_05路径.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -828,13 +824,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/year_13/_01世纪末日的星期日.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="12" column="41" lean-forward="true" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/year_13/_03有理数类.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
@@ -898,9 +887,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
           <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -938,14 +924,78 @@
     <entry file="file://$PROJECT_DIR$/_数据结构/_KMP/_字符串匹配.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
-          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/year_19_province/_第四题2019的不同正整数的和.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="44" lean-forward="true" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+        <state relative-caret-position="162">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_蓝桥必备api/_SimpleDateFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_蓝桥必备api/_Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-135">
+          <caret line="28" column="41" lean-forward="true" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_蓝桥必备api/_Calender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="23" column="54" lean-forward="true" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/lib/src.zip!/java.base/java/util/Calendar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="2832" column="25" selection-start-line="2832" selection-start-column="25" selection-end-line="2832" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/year_13/_01世纪末日的星期日.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_蓝桥必备api/_Pattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="7" column="43" lean-forward="true" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_蓝桥必备api/_Matcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -12,6 +12,7 @@
       <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/_作业5" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/year_19_province" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/_蓝桥必备api" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
